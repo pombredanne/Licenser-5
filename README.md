@@ -14,7 +14,7 @@ Positional arguments:
 
 Optional
 * --extensions extensions of target files (if left empty, licenser will attempt to insert into every file)
-* --ignorefiles name of file which should be ignored
+* --ignorefiles name of files which should be ignored
 
 
 ## Samples
