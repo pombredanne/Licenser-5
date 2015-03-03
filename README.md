@@ -3,6 +3,7 @@ Inserts license text into source files.
 
 **License is inserted as-is. It is recommended that license text is wrapped in comment block or equivalent.**
 
+**Does nothing if it detects that file already contains license you are trying to add.**
 ## Usage
 Full help available via ```python licenser.py --help```
 
