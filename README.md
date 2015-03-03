@@ -1,7 +1,7 @@
 # Licenser
 Inserts license text into source files.
 
-*License is inserted as-is. It is recommended that license text is wrapped in comment block or equivalent.*
+**License is inserted as-is. It is recommended that license text is wrapped in comment block or equivalent.**
 
 ## Usage
 Full help available via ```python licenser.py --help```
